@@ -7,8 +7,9 @@ over sampling using smote
 
 
 as in unbalanced data recall was 29% after over sampling recall improved to 61%
+
 ![image](https://user-images.githubusercontent.com/48947659/156815735-9437ee28-cc30-4ad8-ade0-433ca3e1e5c0.png)
 
-Executed using papermill 
-tested on random forest(bagging)  xg boost(boosting)
+Executed using papermill,    
+tested on random forest(bagging)  xg boost(boosting),  
 tracking using mlflow
