@@ -13,4 +13,5 @@ as in unbalanced data recall was 29% after over sampling recall improved to 61%
 
 Executed using papermill,    
 tested on random forest(bagging)  xg boost(boosting),  
-tracking using mlflow
+tracking using mlflow   
+pickling the model and tested.   
